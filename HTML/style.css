@@ -148,6 +148,7 @@ header {
   right: 21%;
   width: 450px;
   height: 30px;
+  display: none;
 }
 .material-icons {
   cursor: pointer;
